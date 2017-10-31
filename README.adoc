@@ -1,0 +1,26 @@
+= Défi SWAPI
+
+Durant les vacances, je vous propose un petit exercice pour garder la forme et entretenir votre curiosité.
+Ce petit défi au sujet volontairement très large vous permettra d’expérimenter et de vous entraîner a coder durant ces vacances.
+
+Le sujet est simple : _Créer une application se basant sur les données de link:https://swapi.co/[SWAPI]_
+
+link:https://swapi.co/[SWAPI] est une API contenant les données des films Star Wars librement accessible.
+Vous pouvez faire n'importe quel type d'application et n'importe quel type de service à partir du moment où vous mettez les données de link:https://swapi.co/[SWAPI] au centre de votre application.
+
+**Soyez créatif** pour trouver une bonne idée d'application, il n'est pas nécessaire que l'application aie une utilité tant qu'elle vous permet de vous entraîner à coder. Essayez d'éviter la classique application de donnés se contentant d'afficher les données de link:https://swapi.co/[SWAPI] mais essayez de trouver un concept original.
+
+Vous êtes **libre** alors autorisez vous des expérimentations pour tester des nouvelles technologies qui vous paraissent intéressantes ou de nouveaux supports. L'application peut se présenter sous forme d'application mobile (Android/IOS), de site Web, de chatbot ou même d'une progressive webapp.
+
+Votre projet doit être **Open source** pour permettre l'amélioration continue par la communauté.
+
+Vous avez jusqu'au **dimanche 5 novembre 2017** pour présenter vos créations sous forme de pull request sur ce repository.
+
+Vous êtes prêt ? Alors mettez vous un petit jazz et commencez à coder !
+
+== Projets
+
+Pour déposer votre projet, faites une pull request sur ce repository en ajoutant un lien vers le repository de votre projet.
+Pour plus d'infos, vous pouvez lire le fichier `link:CONTRIBUTING.adoc[CONTRIBUTING]`.
+
+* _Il n'y a rien de déposé pour le moment_
