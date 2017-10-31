@@ -18,6 +18,10 @@ Vous avez jusqu'au **dimanche 5 novembre 2017** pour présenter vos créations s
 
 Vous êtes prêt ? Alors mettez vous un petit jazz et commencez à coder !
 
+== Ressources
+
+Si vous avez besoin d'un hébergement de serveur, je peux vous le mettre en place en sous domaine de `epickiwi.fr`.
+
 == Projets
 
 Pour déposer votre projet, faites une pull request sur ce repository en ajoutant un lien vers le repository de votre projet.
