@@ -27,4 +27,4 @@ Si vous avez besoin d'un hébergement de serveur, je peux vous le mettre en plac
 Pour déposer votre projet, faites une pull request sur ce repository en ajoutant un lien vers le repository de votre projet.
 Pour plus d'infos, vous pouvez lire le fichier `link:CONTRIBUTING.adoc[CONTRIBUTING]`.
 
-* _Il n'y a rien de déposé pour le moment_
+* link:https://github.com/TngBlt/Lord-of-the-Stars[Lord of the Stars] Projet du merveilleux Tanguy Blochet.
