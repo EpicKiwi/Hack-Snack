@@ -27,5 +27,5 @@ Si vous avez besoin d'un hébergement de serveur, je peux vous le mettre en plac
 Pour déposer votre projet, faites une pull request sur ce repository en ajoutant un lien vers le repository de votre projet.
 Pour plus d'infos, vous pouvez lire le fichier `link:CONTRIBUTING.adoc[CONTRIBUTING]`.
 
-* link:https://github.com/TngBlt/Lord-of-the-Stars[Lord of the Stars] Projet du merveilleux Tanguy Blochet.
+* link:https://github.com/TngBlt/Guess-Who-Star-Wars[Guess Who Star Wars] Projet du merveilleux Tanguy Blochet.
 * link:https://github.com/EpicKiwi/Uberdrive[Uberdrive] Application de transport interplanétaire
