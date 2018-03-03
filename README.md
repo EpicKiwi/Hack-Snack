@@ -12,3 +12,9 @@ Chaque ennemi peut avoir une ou plusieurs armes ou méthodes d'attaques faisant 
 
 Le personnage que contrôle le joueur dispose d'une classe qui sera choisie par le joueur au début de la parie.
 Cette classe donne acces à des attaques qui pourrons être utilisés par le joueur pendant les combats.
+
+Vous pouvez utiliser n'importe quel langage pour y parvenir.
+
+## Particippants
+
+* EpicKiwi : [Hero Fight](https://github.com/EpicKiwi/Hero-fight)
