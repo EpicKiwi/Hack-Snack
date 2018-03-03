@@ -1,7 +1,10 @@
 # Hero Fight
-## Hack Snack
 
 > Les Hack snack sont des petits défis de développement permettant de garder la forme et de chiller sur du code. Prendre un petit hack snack vous permet de découivrir de nouvelles technologies et de partiquer.
+
+Pour voir les modélités de paticipation, rendez vous sur la page [CONTRIBUTING](CONTRIBUTING.md), et pour voir les anciens défis rendez vous sur la page [Archives](Archives.md).
+
+## Hack Snack
 
 Aujourd'hui un petit snack POO. 
 L'objectif est de coder un petit jeu de combat en mode texte. 
@@ -15,6 +18,6 @@ Cette classe donne acces à des attaques qui pourrons être utilisés par le jou
 
 Vous pouvez utiliser n'importe quel langage pour y parvenir.
 
-## Particippants
+## Participants
 
 * EpicKiwi : [Hero Fight](https://github.com/EpicKiwi/Hero-fight)
