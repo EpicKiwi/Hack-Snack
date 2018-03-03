@@ -1,10 +1,10 @@
-# Hero Fight
+# Hack Snack
 
 > Les Hack snack sont des petits défis de développement permettant de garder la forme et de chiller sur du code. Prendre un petit hack snack vous permet de découivrir de nouvelles technologies et de partiquer.
 
 Pour voir les modélités de paticipation, rendez vous sur la page [CONTRIBUTING](CONTRIBUTING.md), et pour voir les anciens défis rendez vous sur la page [Archives](Archives.md).
 
-## Hack Snack
+## Hero Fight
 
 Aujourd'hui un petit snack POO. 
 L'objectif est de coder un petit jeu de combat en mode texte. 
